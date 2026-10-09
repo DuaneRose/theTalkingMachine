@@ -1,0 +1,53 @@
+{
+    "conversation": [
+        {
+            "user": "Thank you today.",
+            "assistant": "I'm sorry. I didn't understand what you said. Can you give me a bit more context or ask the question again in plain English?"
+        },
+        {
+            "user": "I'm sorry. Yes, you can hear it. It's not. I'm sorry.",
+            "assistant": "Got it. I'll keep it short. What is this about?"
+        },
+        {
+            "user": "So let's just turn that down.",
+            "assistant": "I'm not sure what you're asking. Can you give me the actual question or the point you want to make?"
+        },
+        {
+            "user": "Yeah, see right now talks to itself. That's the biggest problem that we need to...get to stop hearing itself by...Let's think how the mic's going out put.",
+            "assistant": "Got it. We need to make the loop smaller, not make the whole thing disappear. What is the actual problem you're trying to solve?"
+        },
+        {
+            "user": "And then here you have obviously the context window right now.",
+            "assistant": "That's the part I'm confused by. Can you rephrase it in plain English?"
+        },
+        {
+            "user": "Speaking to you guys don't worry about that. Yeah, we have the context window. I guess justBut to add context to the conversation.",
+            "assistant": "Got it. The actual request is: \"Add context window to the conversation.\" Is that right?"
+        },
+        {
+            "user": "And there's this context manager file that basically just...the context after it's a certain length of...A conversation is reached.",
+            "assistant": "That's a lot of context. Can you narrow it down to the actual request or the smallest possible version?"
+        },
+        {
+            "user": "and these numbers at the end of the...Input is just the likelihood that's a full sentence.",
+            "assistant": "That's closer. The actual request is: \"Add context window to the conversation, with numbers at the end.\""
+        },
+        {
+            "user": "And so there's a starting threshold and if it...threshold and it sends that.",
+            "assistant": "That's the smallest version. The actual request is: \"Add context window to the conversation, with numbers at the end, starting threshold.\""
+        },
+        {
+            "user": "text to the yellow lens.",
+            "assistant": "Got it. I'll keep working from there."
+        },
+        {
+            "user": "And you can, you know...Thank you.",
+            "assistant": "I'll keep it short. Send the actual request, and I'll help shape it into a message someone can reply to."
+        },
+        {
+            "user": "and there's some hard-coded commands.",
+            "assistant": "Send the actual request, and I'll help make it usable."
+        }
+    ],
+    "summary": ""
+}
