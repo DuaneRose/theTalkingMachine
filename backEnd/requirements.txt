@@ -11,7 +11,7 @@ piper-tts>=1.2,<2
 # ONNX and Hugging Face
 onnxruntime>=1.20,<2
 transformers>=5
-
+Pyaudio
 
 # Ollama
 ollama>=0.4,<1
