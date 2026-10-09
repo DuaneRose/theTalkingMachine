@@ -7,6 +7,8 @@ cd theTalkingMachine
 
 2. Create and activate the Python environment
 
+cd backend (go into folder)
+
 macOS
 
 python3.11 -m venv .venv
