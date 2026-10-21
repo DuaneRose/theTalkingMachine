@@ -2,9 +2,7 @@ from context_manager import add_context, get_context
 from print_color import print_blue
 from ollama import chat
 
-
 brain = "qwen3.5:4b"
-
 
 def communicate(text):
     context = get_context() or {
@@ -26,7 +24,7 @@ def communicate(text):
                 "Do not continue or answer an older topic unless the final message asks you to.\n"
                 "If the final message is unclear or appears to be speech-recognition noise, "
                 "ask the user to repeat themselves."
-                    "Summary of earlier conversation: \n\n"
+                "Summary of earlier conversation: \n\n"
                 f"{context.get('summary', '')}"
             ),
         }
