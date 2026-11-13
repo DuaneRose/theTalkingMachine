@@ -10,7 +10,6 @@ def communicate(text):
         "conversation": []
     }
 
-    # Keep this only if your audio pipeline appends a 25-character marker.
     user_text = text[:-25] if len(text) > 25 else text
 
     messages = [
